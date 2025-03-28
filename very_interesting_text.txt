@@ -2,6 +2,8 @@ This is an extremely interesting text.
 This is the sinergy of AStudent 
 and BStudent efforts.
 
+I'm adding useless stuff because I'm stupid.
+
 Meanwhile BStudent calls up AStudent. BStudent 
 tells AStudent they has an improvement for this part of the text, 
 BStudent will do this on a different branch so that there 
