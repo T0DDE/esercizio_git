@@ -2,6 +2,8 @@ This is an extremely interesting text.
 This is the sinergy of AStudent 
 and BStudent efforts.
 
+This is a no-sense sentence for the king of the sea.
+
 Meanwhile BStudent calls up AStudent. BStudent 
 tells AStudent they has an improvement for this part of the text, 
 BStudent will do this on a different branch so that there 
